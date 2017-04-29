@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollisionBall", "CollisionBall.csproj", "{3CF396AF-F92F-8F8E-3E46-328076BE3EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollisionBall.Editor", "CollisionBall.Editor.csproj", "{93A91870-1BC9-83CE-00C0-705F226A99CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF396AF-F92F-8F8E-3E46-328076BE3EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF396AF-F92F-8F8E-3E46-328076BE3EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF396AF-F92F-8F8E-3E46-328076BE3EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF396AF-F92F-8F8E-3E46-328076BE3EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A91870-1BC9-83CE-00C0-705F226A99CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A91870-1BC9-83CE-00C0-705F226A99CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A91870-1BC9-83CE-00C0-705F226A99CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A91870-1BC9-83CE-00C0-705F226A99CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

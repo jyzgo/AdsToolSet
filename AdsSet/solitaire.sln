@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solitaire", "solitaire.csproj", "{D5EEBD5D-5D3D-B8BA-EE3A-FE09F8DAF334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solitaire.Editor", "solitaire.Editor.csproj", "{889E2CAF-C5CA-715D-DD07-DB6682E94AF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5EEBD5D-5D3D-B8BA-EE3A-FE09F8DAF334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5EEBD5D-5D3D-B8BA-EE3A-FE09F8DAF334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5EEBD5D-5D3D-B8BA-EE3A-FE09F8DAF334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5EEBD5D-5D3D-B8BA-EE3A-FE09F8DAF334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889E2CAF-C5CA-715D-DD07-DB6682E94AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889E2CAF-C5CA-715D-DD07-DB6682E94AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889E2CAF-C5CA-715D-DD07-DB6682E94AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889E2CAF-C5CA-715D-DD07-DB6682E94AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
